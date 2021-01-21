@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "demo": "browserslist '> 0.25%, not dead'"
+  },
+  "devDependencies": {
+    "browserslist": "4.16.1"
+  }
+}
