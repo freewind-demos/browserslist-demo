@@ -11,5 +11,5 @@ https://github.com/browserslist/browserslist
 
 ```
 npm i
-npm run demo
+npm start
 ```
